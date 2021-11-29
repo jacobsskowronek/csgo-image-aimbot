@@ -1,0 +1,26 @@
+<annotation>
+  <folder>training</folder>
+  <filename>img009184.jpg</filename>
+  <path>D:\Training\CSGO_Train\training\img009184.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>600</width>
+    <height>600</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>ct_body</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>271</xmin>
+      <ymin>108</ymin>
+      <xmax>363</xmax>
+      <ymax>190</ymax>
+    </bndbox>
+  </object>
+</annotation>
