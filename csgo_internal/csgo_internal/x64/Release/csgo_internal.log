@@ -1,0 +1,11 @@
+﻿dllmain.obj : error LNK2001: unresolved external symbol GdipSaveImageToFile
+dllmain.obj : error LNK2001: unresolved external symbol GdipGetImageEncodersSize
+dllmain.obj : error LNK2001: unresolved external symbol GdipFree
+dllmain.obj : error LNK2001: unresolved external symbol GdipDisposeImage
+dllmain.obj : error LNK2001: unresolved external symbol GdipCreateBitmapFromHBITMAP
+dllmain.obj : error LNK2001: unresolved external symbol GdipAlloc
+dllmain.obj : error LNK2001: unresolved external symbol GdipCloneImage
+dllmain.obj : error LNK2001: unresolved external symbol GdipGetImageEncoders
+dllmain.obj : error LNK2001: unresolved external symbol GdiplusShutdown
+dllmain.obj : error LNK2001: unresolved external symbol GdiplusStartup
+C:\Users\jacob\Documents\Projects\csgo_internal\x64\Release\csgo_internal.dll : fatal error LNK1120: 10 unresolved externals
